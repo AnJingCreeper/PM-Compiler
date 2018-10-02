@@ -1,2 +1,2 @@
 # PM-Compiler
-Comile PocketMine Plugin to .phar
+Compile PocketMine-MP Plugin to .phar
